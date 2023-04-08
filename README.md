@@ -52,3 +52,13 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+NOTE 
+KARENA MASIH DALAM PENGEMBANGAN, UNTUK SEMENTARA DATABASE YANG DIPAKAI YAITU DATABASE MAHASISWA DAN FORM YANG DIPAKAI FORM MAHASISWA UNTUK PENGINPUTAN PEMBAYARAN ZAKAT. 
+DAN REPORT MASIH BEUM BERFUNGSI DENGAN BAIK.
+
+UNTUK LOGIN
+admin@gmail.com
+12345678
+
+
