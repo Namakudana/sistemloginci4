@@ -1,17 +1,16 @@
-<div class="h1">TAMPIL DATA ZAKAT FITRAH</div>
-
+<!--<div class="h1">TAMPIL DATA ZAKAT FITRAH</div>-->
+<p>Tampil Data</p>
+<section class="content">
 <body>
   <header>
     <header>
-      </br>
       <div class="container-md">
         <div class="p-3 mb-2 bg-light text-dark">
           <a href='Bayarfitrah' class="btn btn-primary" type="submit">Tambah Data </a>
           <a href='report' class="btn btn-warning" type="submit">Print Data </a>
 
           <!-- Main content -->
-    <section class="content">
-      <div class="row">
+    <div class="row">
         <div class="col-xs-12">
           <div class="box">
             <div class="box-header">
@@ -22,10 +21,10 @@
           <table id="example" class="table table-striped" style="width:100%">
             <thead>
               <tr>
-                <td>No. Transaksi</td>
+                <td>Nik</td>
                 <td>Jenis Transaksi</td>
                 <td>Nominal Transaksi</td>
-                <td>Nama Muzakki</td>
+                <td>Atas Nama</td>
               </tr>
             </thead>
             <tbody>
@@ -52,13 +51,6 @@
             <!-- /.box-body -->
           </div>
           <!-- /.box -->
-        </div>
-        <!-- /.col -->
-      </div>
-      <!-- /.row -->
-    </section>
-    <!-- /.content -->
-  </div>
   <!-- /.content-wrapper -->
       <script>
         $(document).ready(function() {

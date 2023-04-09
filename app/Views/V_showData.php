@@ -22,7 +22,7 @@
   <div class="container">
 		<div class="container">
 			<a class="navbar-brand" href="<?= base_url() ?>">Home</a>
-            <a class="navbar-brand" href="<?= base_url('data/insertData/') ?>">Input Data</a>
+            <a class="navbar-brand" href="<?= base_url('tampil/insertData/') ?>">Input Data</a>
 
             <a class="navbar-brand" href="<?= base_url('login') ?>">Log Out</a>
             <a class="navbar-brand" href="<?= base_url('report') ?>">Report</a>

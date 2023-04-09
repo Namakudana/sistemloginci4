@@ -24,7 +24,7 @@ class Tampil extends BaseController
 
     public function insertData()
     {
-        return view('V_insertData');
+        return view('V_showData');
     }
 
     public function saveData()

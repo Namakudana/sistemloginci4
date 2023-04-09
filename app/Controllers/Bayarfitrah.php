@@ -8,8 +8,9 @@ class Bayarfitrah extends BaseController
     {
         $data = array(
             'tittle' => 'Bayar-Fitrah',
-            'isi'   => 'V_insertData'
+            //'isi'   => 'V_insertData'
+            'isi'   => 'v_inputfitrah'
         );
-        return view('V_insertData', $data);
+        return view('layout/v_wrapper', $data);
     }
 }

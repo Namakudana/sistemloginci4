@@ -4,12 +4,16 @@ namespace App\Controllers;
 
 class Fitrah extends BaseController
 {
+
     public function index()
     {
+        
         $data = array(
             'tittle' => 'Data-Fitrah',
-            'isi'   => 'V_showData'
+            'isi'   => 'v_showdatafitrah',
         );
-        return view('V_showData', $data);
+        return view('layout/v_wrapper', $data);
     }
+
+
 }

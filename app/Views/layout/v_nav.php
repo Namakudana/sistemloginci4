@@ -47,7 +47,7 @@
                 </li>-->
                 <li>
                     <a href='Bayarfitrah'>
-                        <i class="fa fa-th"></i> <span>Pembayaran</span>
+                        <i class="fa fa-money"></i> <span>Pembayaran</span>
                     </a>
                 </li>
                 <!--<li>
@@ -56,8 +56,8 @@
                     </a>
                 </li>-->
                 <li>
-                    <a href='Tampil'>
-                        <i class="fa fa-th"></i> <span>Tampil Data</span>
+                    <a href='Fitrah'>
+                        <i class="fa fa-folder-o"></i> <span>Tampil Data</span>
                     </a>
                 </li>
             <?php } ?>
